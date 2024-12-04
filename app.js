@@ -1,0 +1,8 @@
+window.alert("Jhone Doe")
+window.alert("15 Years Old")
+window.alert("Certificated Application Mobile Cermony ")
+window.alert("Pizza Pizz Piz Pi P")
+window.alert("My Email Address Is gyousufghori@gmail.com")
+window.alert("Iam Trying To Learn JS From Book Avater")
+document.write("Yeah!.. I Can Write Html Content Through Javsscript")
+document.write("The End")
